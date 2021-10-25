@@ -1,4 +1,3 @@
-# gsaglam
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=gaysag&show_icons=true">
 
