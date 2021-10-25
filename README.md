@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaysag" alt="gaysag" /> </p>
 
-[![](https://img.shields.io/github/followers/cobanov?style=social)](https://www.github.com/cobanov)
+[![](https://img.shields.io/github/followers/cobanov?style=social)](https://www.github.com/gaysag)
 
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dr-gaye-sa%C4%9Flam-3b3a2a2a//)
