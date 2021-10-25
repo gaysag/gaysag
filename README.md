@@ -6,5 +6,5 @@
 [![](https://img.shields.io/github/followers/cobanov?style=social)](https://www.github.com/cobanov)
 
 
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mertcobanoglu/)
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dr-gaye-sa%C4%9Flam-3b3a2a2a//)
 [![Mail Badge](https://img.shields.io/badge/gayesa@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:gayesa@gmail.com)](mailto:gayesa@gmail.com)
