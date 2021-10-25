@@ -2,7 +2,6 @@
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=gaysag&show_icons=true">
 
-# Merhaba, ben Gaye Sağlam! 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaysag" alt="gaysag" /> </p>
 
 [![](https://img.shields.io/github/followers/cobanov?style=social)](https://www.github.com/cobanov)
